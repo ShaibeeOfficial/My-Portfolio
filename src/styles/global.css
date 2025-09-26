@@ -1,8 +1,10 @@
 :root {
   --bg: #ffffff;
   --text: #0f172a;
+  --header-text: #ffffff;
   --footer-text: #ffffff;
   --card-bg: #f8fafc;
+  --nav-bg: #1e293b;
   --primary: #38bdf8;
   --secondary: #1e293b;
 }
@@ -10,7 +12,9 @@
 [data-theme="dark"] {
   --bg: #0f172a;
   --text: #f1f5f9;
+  --header-text: #ffffff;
   --card-bg: #1e293b;
+  --nav-bg: #1e334e;
   --primary: #38bdf8;
   --secondary: #334155;
 }
